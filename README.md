@@ -1,4 +1,4 @@
-# Hi, I'm Heavensdoa 👋
+# Hi, I'm Said 👋
 
 ## 👨‍💻 About me
 - Learning Go / Java 
